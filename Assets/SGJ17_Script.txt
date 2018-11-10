@@ -1,0 +1,30 @@
+Each line corresponds to one dismissable message.
+
+[Intro Cutscene]:
+Gerock, bist du immer noch an deinem Laptop?
+Wie willst du so jemals Leute kennenlernen?
+Weißt du was, ich hab's satt. Dein Laptop bleibt jetzt erst mal bei mir.
+Wie du ihn zurückbekommst? Hmm...
+Ich hab's!
+Du kriegst ihn zurück, wenn du mit einer Freundin nach Hause kommst, ganz simple Aufgabe (nicht für den Gerock, aber das muss er ja nicht wissen).
+Bis dahin werde ich darauf mit meinen Freundinnen chatten, tschühüüüüüs!
+
+[Boss #0]:
+Ha, was willst du NERD denn bitte von MIR? Geh doch zurück zu deinen virtuellen Frauen, die stehen vielleicht sogar auf dich~
+Was, deine Schwester hat deinen Laptop geklaut und ich soll so tun, als sei ich deine Freundin?
+Find ich ja ganz süß von dir, aber bist du meiner Hilfe überhaupt würdig?
+Schlag mich und ich bin dein <3
+
+
+English version:
+[Intro]:
+Jerro, you lazy bum, having fun with your virtual girls again?
+Sure, sure, it's something important, you say. But mom's not home, so I'm the boss now.
+This laptop is mine now. I have "important" things to discuss with my girl friends *snicker*.
+How you'll get it back? Uhh just... bring home a girlfriend. Should be easy, now that you're finally off the computer, right?
+Anyway, my friends are waiting, bye~~
+
+[Boss #0]:
+Don't 👏 even 👏 talk 👏 to 👏 me 👏 if 👏 you 👏 are 👏 a 👏 virgin 👏.
+Just pretend to be your girlfriend?
+Actually, this could be fun. Beat me and I'll be yours for the day <3

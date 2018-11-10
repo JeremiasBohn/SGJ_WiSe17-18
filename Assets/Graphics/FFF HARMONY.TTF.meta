@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 84e8ccdaf365386479c25f852cd2e1fb
+timeCreated: 1512902047
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FFF Harmony
+  fontNames:
+  - FFF Harmony
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
